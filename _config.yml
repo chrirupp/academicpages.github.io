@@ -9,7 +9,7 @@
 locale: "en-US"
 title                    : "Christian Rupprecht / About"
 title_separator          : "-"
-name                     : &name "Christian Rupprecht
+name                     : &name "Christian Rupprecht"
 description              : &description "Researcher in Computer Vision and Machine Learning"
 url                      : https://chrirupp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

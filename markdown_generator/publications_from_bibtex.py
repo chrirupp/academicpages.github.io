@@ -52,7 +52,7 @@ for key, bib_item in bib_data.entries.items():
     md += "\n---"
 
     citation = BibliographyData(entries={key: bib_item})
-    md += "\nBibTex: '" + html_escape(citation.to_string("bibtex")) + "'"
+    md += "\nBibTex: '<pre>" + html_escape(citation.to_string("bibtex")) + "</pre>'"
     
     md_filename = os.path.basename(md_filename)
        

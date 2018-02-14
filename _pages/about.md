@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is the academic website of Christian Rupprecht, [PhD Candicate](http://campar.in.tum.de/Main/ChristianRupprecht) at the Technical University of Munich, Germany supervised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab) and [Gregory D. Hager](http://www.cs.jhu.edu/~hager/). Currently I am an intern with [Chris Pal](http://www.professeurs.polymtl.ca/christopher.pal/) at the [Montreal Institute For Learning Algorithms](https://mila.quebec/en/).
-For open projects and theses have a look at my [website](http://campar.in.tum.de/Main/ChristianRupprecht) at TUM.
+For open projects and theses, please have a look at my [TUM website](http://campar.in.tum.de/Main/ChristianRupprecht).
 
 News
 ======

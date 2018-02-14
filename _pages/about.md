@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Page of Christian Rupprecht"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the academic website of Christian Rupprecht, [PhD Candicate](http://campar.in.tum.de/Main/ChristianRupprecht) at the Technical University of Munich, Germany supervised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab) and [Gregory D. Hager](http://www.cs.jhu.edu/~hager/). Currently I am an intern with [Chris Pal](http://www.professeurs.polymtl.ca/christopher.pal/) at the [Montreal Institute For Learning Algorithms](https://mila.quebec/en/).
+For open projects and theses have a look at my [website](http://campar.in.tum.de/Main/ChristianRupprecht) at TUM.
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. I am spending 4 months as an intern at [MILA](https://mila.quebec/en/) with [Chris Pal](https://mila.quebec/en/person/pal-christopher/) until May 2018
+1. BaCaTeC funded [project](http://www.bacatec.de/de/gefoerderte_projekte.html) with [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/) on 3D reconstruction and retrieval
+1. I presented at the Doctoral Consortium at ICCV 2017
+1. One [paper](http://www.sciencedirect.com/science/article/pii/S1077314217301406) accepted at [CVIU](https://www.journals.elsevier.com/computer-vision-and-image-understanding/)
+1. [Talk at Nvidia GTC](https://gputechconf2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=112885) in San Jose, California on deep learning for 3D scene understanding.
+1. One [paper](http://campar.in.tum.de/Chair/PublicationDetail?pub=rupprecht2017iccv) accepted at [ICCV 2017](http://iccv2017.thecvf.com//)
+1. One [paper](http://campar.in.tum.de/Chair/PublicationDetail?pub=rieke2017miccai) accepted at [MICCAI 2017](http://www.miccai2017.org/)
+1. One [paper](https://www.nature.com/articles/s41598-017-01779-0.epdf) accepted at [Nature Scientific Reports](https://www.nature.com/articles/s41598-017-01779-0.epdf)
+1. One [paper](http://campar.in.tum.de/Chair/PublicationDetail?pub=laina2016depth) accepted at [3DV 2016](http://3dv.stanford.edu)
+1. One paper accepted at LABELS 2016
+1. Depth Prediction [GitHub page](https://github.com/iro-cp/FCRN-DepthPrediction) is online.
+1. One paper accepted at IROS 2016
+1. !BaCaTeC funded [project](http://www.bacatec.de/de/gefoerderte_projekte.html) with [Silvio Savarese](http://cvgl.stanford.edu/silvio/) and [Lamberto Ballan](http://www.lambertoballan.net/) on [Webly supervised human activity recognition](http://campar.in.tum.de/Students/MaWeblySupHAR)
+1. Our [Feature Visualization Paper and Library](http://campar.in.tum.de/Chair/FeatVis) was presented at an ICML workshop
+1. One paper accepted at ICCV 2015
+1. One paper accepted at CVPR 2015
 
-Getting started
+Supervised Students
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+current students
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Marat Seroglazov
+1. Sanjeev Kumar
 
-Create content & metadata
+finished students
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+[Iro Laina](http://campar.in.tum.de/Main/IroLaina), Sergey Zakharov, Henry Martin, [Felix Grün](http://campar.in.tum.de/Main/FelixGruen), Christoph Kick, Adam Kosiorek, Ansh Kapil, Nan Yang, Elizabeth Huaroc, Bharti Munjal, Nan Liu, Ignacio Sarasúa, Udo Dehm, Dominik Drexler
+This list is sorted by starting date.
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Page Template
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+This website was forked from the template made by [Stuart Geiger](https://github.com/staeiou) who in turn forked the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose.

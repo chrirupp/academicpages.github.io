@@ -38,7 +38,9 @@ for key, bib_item in bib_data.entries.items():
     md_filename = fields['year'] + '-' + key + ".md"
     html_filename = fields['year'] + '-' + key
     citation = BibliographyData(entries={key: bib_item})
-    citation_str = citation.to_string("bibtex").encode("unicode_escape").decode("utf-8")
+    citation_str = citation.to_string("bibtex")
+    citation_str = citation_str.encode("unicode_escape").decode("utf-8")
+    citation_str = citation_str.translate(str.maketrans({'"':  "\\\""}))
     
     ## YAML variables
     

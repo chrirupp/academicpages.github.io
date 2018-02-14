@@ -51,7 +51,7 @@ for key, bib_item in bib_data.entries.items():
         md += "\npaperurl: '" + fields['url'] + "'"
     
     md += "\n---"
-    md += "\nBibTex: '" + html_escape(citation.to_string("bibtex")) + "'"
+    md += "\nbibtex: '" + html_escape(citation.to_string("bibtex")) + "'"
     
     md_filename = os.path.basename(md_filename)
     with open("../_publications/" + md_filename, 'w') as f:

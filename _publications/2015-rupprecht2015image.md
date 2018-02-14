@@ -6,7 +6,7 @@ year: 2015
 venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition'
 paperurl: 'http://openaccess.thecvf.com/content_cvpr_2015/papers/Rupprecht_Image_Segmentation_in_2015_CVPR_paper.pdf'
 ---
-BibTex: '@inproceedings{rupprecht2015image,
+bibtex: '@inproceedings{rupprecht2015image,
     author = &quot;Rupprecht, Christian and Peter, Loic and Navab, Nassir&quot;,
     title = &quot;Image Segmentation in Twenty Questions&quot;,
     booktitle = &quot;Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition&quot;,

@@ -49,9 +49,9 @@ for key, bib_item in bib_data.entries.items():
     
     if 'url' in fields:
         md += "\npaperurl: '" + fields['url'] + "'"
-    
-    md += "\n---"
+
     md += "\nbibtex: '" + html_escape(citation.to_string("bibtex")) + "'"
+    md += "\n---"
     
     md_filename = os.path.basename(md_filename)
     with open("../_publications/" + md_filename, 'w') as f:

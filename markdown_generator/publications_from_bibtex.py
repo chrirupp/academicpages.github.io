@@ -37,6 +37,7 @@ for key, bib_item in bib_data.entries.items():
     fields = bib_item.fields
     md_filename = fields['year'] + '-' + key + ".md"
     html_filename = fields['year'] + '-' + key
+    citation = BibliographyData(entries={key: bib_item})
     
     ## YAML variables
     
@@ -50,12 +51,9 @@ for key, bib_item in bib_data.entries.items():
         md += "\npaperurl: '" + fields['url'] + "'"
     
     md += "\n---"
-
-    citation = BibliographyData(entries={key: bib_item})
-    md += "\nBibTex: '<pre>" + html_escape(citation.to_string("bibtex")) + "</pre>'"
+    md += "\nBibTex: '" + html_escape(citation.to_string("bibtex")) + "'"
     
     md_filename = os.path.basename(md_filename)
-       
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
 

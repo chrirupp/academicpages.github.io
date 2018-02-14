@@ -43,7 +43,7 @@ for key, bib_item in bib_data.entries.items():
     md = "---\ntitle: \"" + html_escape(fields['title']) + '"\n'
     md += """collection: publications"""
     md += """\npermalink: /publication/""" + html_filename
-    md += "\ndate: " + fields['year']
+    md += "\nyear: " + fields['year']
     md += "\nvenue: '" + html_escape(fields['booktitle']) + "'"
     
     if 'url' in fields:

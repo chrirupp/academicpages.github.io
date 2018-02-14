@@ -2,7 +2,7 @@
 title: "Image Segmentation in Twenty Questions"
 collection: publications
 permalink: /publication/2015-rupprecht2015image
-date: 2015
+year: 2015
 venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition'
 ---
 BibTex: '@inproceedings{rupprecht2015image,

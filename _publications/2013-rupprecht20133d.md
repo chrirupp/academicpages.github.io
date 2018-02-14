@@ -2,7 +2,7 @@
 title: "3D Semantic Parameterization for Human Shape Modeling: Application to 3D Animation"
 collection: publications
 permalink: /publication/2013-rupprecht20133d
-date: 2013
+year: 2013
 venue: '3D Vision-3DV 2013, 2013 International Conference on'
 ---
 BibTex: '@inproceedings{rupprecht20133d,

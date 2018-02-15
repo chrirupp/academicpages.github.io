@@ -77,6 +77,15 @@
   }
 }
 
+.archive__item {
+  .archive__item-title {
+    font-size: $type-size-5;
+  }
+  p {
+    font-size: $type-size-6;
+    margin-top: 0.2em;
+  } 
+}
 
 /*
    List view

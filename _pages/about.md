@@ -22,18 +22,3 @@ News
 * One [paper](http://campar.in.tum.de/Chair/PublicationDetail?pub=rupprecht2017iccv) accepted at [ICCV 2017](http://iccv2017.thecvf.com//)
 
 [all news](/news)
-
-Supervised Students
-======
-
-### current students
-* Marat Seroglazov
-* Sanjeev Kumar
-
-### finished students
-[Iro Laina](http://campar.in.tum.de/Main/IroLaina), Sergey Zakharov, Henry Martin, [Felix Grün](http://campar.in.tum.de/Main/FelixGruen), Christoph Kick, Adam Kosiorek, Ansh Kapil, Nan Yang, Elizabeth Huaroc, Bharti Munjal, Nan Liu, Ignacio Sarasúa, Udo Dehm, Dominik Drexler
-This list is sorted by starting date.
-
-Page Template
-------
-This website was forked from the template made by [Stuart Geiger](https://github.com/staeiou) who in turn forked the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose.

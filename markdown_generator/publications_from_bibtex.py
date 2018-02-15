@@ -4,7 +4,6 @@ import os
 
 parser = bibtex.Parser()
 bib_data = parser.parse_file('publications.bib')
-print(bib_data.entries.keys())
 
 # YAML is very picky about how it takes a valid string,
 # so we are replacing single and double quotes (and ampersands)
@@ -34,9 +33,24 @@ def html_escape(text):
 # (like the "Recommended citation")
 
 for key, bib_item in bib_data.entries.items():
+    print(key)
     fields = bib_item.fields
     md_filename = fields['year'] + '-' + key + ".md"
     html_filename = fields['year'] + '-' + key
+
+    if 'booktitle' in fields:
+        venue_str = html_escape(fields['booktitle'])
+    elif 'journal' in fields:
+        venue_str = html_escape(fields['journal'])
+    else:
+        print('Could not find venue for ' + key + '!')
+
+    if 'url' in fields:
+        url_str = fields['url']
+        bib_item.fields._dict.pop('url')  # hack because their dict does not support del
+        bib_item.fields.order.remove('url')  # remove url to not have it in the displayed bibtex
+    else:
+        url_str = None
     citation = BibliographyData(entries={key: bib_item})
     citation_str = citation.to_string("bibtex")
     citation_str = citation_str.encode("unicode_escape").decode("utf-8")
@@ -48,10 +62,11 @@ for key, bib_item in bib_data.entries.items():
     md += """collection: publications"""
     md += """\npermalink: /publication/""" + html_filename
     md += "\nyear: " + fields['year']
-    md += "\nvenue: '" + html_escape(fields['booktitle']) + "'"
+    md += "\nvenue: '" + venue_str + "'"
+    md += "\nauthors: '" + html_escape(fields['author']) + "'"
     
-    if 'url' in fields:
-        md += "\npaperurl: '" + fields['url'] + "'"
+    if url_str:
+        md += "\npaperurl: '" + url_str + "'"
 
     md += "\nbibtex: \"" + citation_str + "\""
     md += "\n---"

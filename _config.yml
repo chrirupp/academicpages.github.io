@@ -7,12 +7,12 @@
 
 # Site Settings
 locale: "en-US"
-title                    : "Christian Rupprecht / About"
+title                    : "Christian Rupprecht"
 title_separator          : "-"
 name                     : &name "Christian Rupprecht"
 description              : &description "Researcher in Computer Vision and Machine Learning"
 url                      : https://chrirupp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # mut be empty for user site, or the subpath of project
 repository               : "chrirupp/chrirupp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -83,7 +83,7 @@ author:
   bio              : "Researcher in Computer Vision and Machine Learning"
   location         : "Munich, Germany"
   employer         :
-  googlescholar    : "https://scholar.google.ca/citations?user=IrYlproAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=IrYlproAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -169,18 +169,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults

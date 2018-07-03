@@ -6,6 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
+* I have joined [VGG](http://www.robots.ox.ac.uk/~vgg/) at the University of Oxford
 * One [paper](https://arxiv.org/abs/1803.11544) accepted at [CVPR 2018](http://cvpr2018.thecvf.com//) (code coming soon)
 * I am spending 4 months as an intern at [MILA](https://mila.quebec/en/) with [Chris Pal](https://mila.quebec/en/person/pal-christopher/) until May 2018
 * BaCaTeC funded [project](http://www.bacatec.de/de/gefoerderte_projekte.html) with [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/) on 3D reconstruction and retrieval

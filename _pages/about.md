@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Christian Rupprecht, a [PhD Candicate](http://campar.in.tum.de/Main/ChristianRupprecht) at the Technical University of Munich, Germany supervised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab) and [Gregory D. Hager](http://www.cs.jhu.edu/~hager/). Currently I am an intern with [Chris Pal](http://www.professeurs.polymtl.ca/christopher.pal/) at the [Montreal Institute For Learning Algorithms](https://mila.quebec/en/).
-For open projects and theses, please have a look at my [TUM website](http://campar.in.tum.de/Main/ChristianRupprecht).
+I am Christian Rupprecht, postdoctoal researcher at [VGG](http://www.robots.ox.ac.uk/~vgg/) with [Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/) in Oxford. I was a [PhD student](http://campar.in.tum.de/Main/ChristianRupprecht) at the Technical University of Munich, Germany supervised by [Nassir Navab](http://campar.in.tum.de/Main/NassirNavab) and [Gregory D. Hager](http://www.cs.jhu.edu/~hager/). I have been an intern with [Chris Pal](http://www.professeurs.polymtl.ca/christopher.pal/) at the [Montreal Institute For Learning Algorithms](https://mila.quebec/en/).
 
 News
 ======
 
+* I have joined [VGG](http://www.robots.ox.ac.uk/~vgg/) at the University of Oxford
 * One [paper](https://arxiv.org/abs/1803.11544) accepted at [CVPR 2018](http://cvpr2018.thecvf.com//) (spotlight) (code coming soon)
 * I am spending 4 months as an intern at [MILA](https://mila.quebec/en/) with [Chris Pal](https://mila.quebec/en/person/pal-christopher/) until May 2018
 * BaCaTeC funded [project](http://www.bacatec.de/de/gefoerderte_projekte.html) with [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/) on 3D reconstruction and retrieval

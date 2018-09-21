@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : chrirupp
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ author:
   name             : "Christian Rupprecht"
   avatar           : "profile.jpg"
   bio              : "Researcher in Computer Vision and Machine Learning"
-  location         : "Munich, Germany"
+  location         : "Oxford, United Kingdom"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=IrYlproAAAAJ&hl=en"
   email            :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "chrirupp"
   vine             :
   weibo            :
   xing             :

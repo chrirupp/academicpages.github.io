@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-* One paper accepted at [ACCV 2018](http://accv2018.net/)
+* One [paper](https://arxiv.org/abs/1811.00793) accepted at [ACCV 2018](http://accv2018.net/)
 * I have joined [VGG](http://www.robots.ox.ac.uk/~vgg/) at the University of Oxford
 * I have submitted my dissertation
 * One [paper](https://arxiv.org/abs/1803.11544) accepted at [CVPR 2018](http://cvpr2018.thecvf.com//) (code coming soon)

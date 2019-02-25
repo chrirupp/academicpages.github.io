@@ -13,7 +13,8 @@ I am Christian Rupprecht, postdoctoal researcher at [VGG](http://www.robots.ox.a
 News
 ======
 
-* I have successfully defended my PhD at TUM (pdf of dissertation coming soon)
+* One paper accepted in Nature Scientific Reports
+* I have successfully defended my PhD at TUM  (summa cum laude - with highest distinction, pdf of dissertation coming soon)
 * One [paper](https://arxiv.org/abs/1811.00793) accepted at [ACCV 2018](http://accv2018.net/)
 * I have joined [VGG](http://www.robots.ox.ac.uk/~vgg/) at the University of Oxford
 * I have submitted my dissertation

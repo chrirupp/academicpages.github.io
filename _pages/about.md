@@ -13,6 +13,7 @@ I am Christian Rupprecht, postdoctoal researcher at [VGG](http://www.robots.ox.a
 News
 ======
 
+* Two papers accepted at [ICCV 2019](http://iccv2019.thecvf.com/) 
 * One paper accepted in Nature Scientific Reports
 * I have successfully defended my PhD at TUM  (summa cum laude - with highest distinction, pdf of dissertation coming soon)
 * One [paper](https://arxiv.org/abs/1811.00793) accepted at [ACCV 2018](http://accv2018.net/)

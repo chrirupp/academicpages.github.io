@@ -13,9 +13,9 @@ I am Christian Rupprecht, postdoctoal researcher at [VGG](http://www.robots.ox.a
 News
 ======
 
-* Two papers accepted at [ICCV 2019](http://iccv2019.thecvf.com/) 
+* Two papers accepted at [ICCV 2019](http://iccv2019.thecvf.com/): on [Unsupervised Captioning](https://arxiv.org/abs/1908.09317) and [6DoF Pose Estimation](https://arxiv.org/abs/1812.00287).
 * One paper accepted in Nature Scientific Reports
-* I have successfully defended my PhD at TUM  (summa cum laude - with highest distinction, pdf of dissertation coming soon)
+* I have successfully defended my [PhD](http://mediatum.ub.tum.de/?id=1446678) at TUM (summa cum laude - with highest distinction)
 * One [paper](https://arxiv.org/abs/1811.00793) accepted at [ACCV 2018](http://accv2018.net/)
 * I have joined [VGG](http://www.robots.ox.ac.uk/~vgg/) at the University of Oxford
 * I have submitted my dissertation

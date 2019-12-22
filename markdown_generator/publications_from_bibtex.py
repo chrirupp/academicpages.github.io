@@ -56,6 +56,8 @@ for key, bib_item in bib_data.entries.items():
     citation_str = citation_str.encode("unicode_escape").decode("utf-8")
     citation_str = citation_str.translate(str.maketrans({'"':  "\\\""}))
     
+    authors = ' and '.join([str(c) for c in bib_item.persons['author']])
+    
     ## YAML variables
     
     md = "---\ntitle: \"" + html_escape(fields['title']) + '"\n'
@@ -63,7 +65,7 @@ for key, bib_item in bib_data.entries.items():
     md += """\npermalink: /publication/""" + html_filename
     md += "\nyear: " + fields['year']
     md += "\nvenue: '" + venue_str + "'"
-    md += "\nauthors: '" + html_escape(fields['author']) + "'"
+    md += "\nauthors: '" + html_escape(authors) + "'"
     
     if url_str:
         md += "\npaperurl: '" + url_str + "'"

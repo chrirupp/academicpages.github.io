@@ -15,7 +15,7 @@ News
 * Three papers accepted at [ICLR 2020](https://iclr.cc/Conferences/2020): on [self-labelling](https://openreview.net/forum?id=Skl993R_PB) (spotlight), [learning from one image](https://openreview.net/forum?id=ryxR4F4Lwr) and [RL visualization](https://openreview.net/forum?id=HJxVCkTwDH)
 * Our team won 2nd place at the [traffic4cast challenge](https://www.iarai.ac.at/traffic4cast/forums/topic/4238/) at NeurIPS
 * Two papers accepted at [ICCV 2019](http://iccv2019.thecvf.com/): on [Unsupervised Captioning](https://arxiv.org/abs/1908.09317) and [6DoF Pose Estimation](https://arxiv.org/abs/1812.00287).
-* One paper accepted in Nature Scientific Reports
+* One [paper](https://www.nature.com/articles/s41598-019-43951-8) accepted in Nature Scientific Reports
 * I have successfully defended my [PhD](http://mediatum.ub.tum.de/?id=1446678) at TUM (summa cum laude - with highest distinction)
 * One [paper](https://arxiv.org/abs/1811.00793) accepted at [ACCV 2018](http://accv2018.net/)
 * I have joined [VGG](http://www.robots.ox.ac.uk/~vgg/) at the University of Oxford

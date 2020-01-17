@@ -1,9 +1,8 @@
-from pybtex.database.input import bibtex
+import pybtex.database
 from pybtex.database import BibliographyData
 import os
 
-parser = bibtex.Parser()
-bib_data = parser.parse_file('publications.bib')
+bib_data = pybtex.database.parse_file('publications.bib')
 
 # YAML is very picky about how it takes a valid string,
 # so we are replacing single and double quotes (and ampersands)

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Concurrent segmentation and localization for tracking of surgical instruments"
 collection: publications
 permalink: /publication/2017-laina2017concurrent

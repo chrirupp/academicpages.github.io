@@ -1,4 +1,4 @@
----
+﻿---
 title: "Image Segmentation in Twenty Questions"
 collection: publications
 permalink: /publication/2015-rupprecht2015image

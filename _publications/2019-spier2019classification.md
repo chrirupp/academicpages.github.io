@@ -1,4 +1,4 @@
----
+﻿---
 title: "Classification of Polar Maps from Cardiac Perfusion Imaging with Graph-Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2019-spier2019classification

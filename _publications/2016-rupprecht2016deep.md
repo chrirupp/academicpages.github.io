@@ -1,4 +1,4 @@
----
+﻿---
 title: "Deep Active Contours"
 collection: publications
 permalink: /publication/2016-rupprecht2016deep

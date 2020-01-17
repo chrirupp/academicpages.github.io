@@ -1,4 +1,4 @@
----
+﻿---
 title: "Deeper Depth Prediction with Fully Convolutional Residual Networks"
 collection: publications
 permalink: /publication/2016-laina2016deeper

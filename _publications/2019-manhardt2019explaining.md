@@ -1,4 +1,4 @@
----
+﻿---
 title: "Explaining the Ambiguity of Object Detection and 6D Pose from Visual Data"
 collection: publications
 permalink: /publication/2019-manhardt2019explaining

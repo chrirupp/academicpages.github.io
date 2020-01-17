@@ -1,4 +1,4 @@
----
+﻿---
 title: "Learning without prejudice: Avoiding bias in webly-supervised action recognition"
 collection: publications
 permalink: /publication/2017-rupprecht2017prejudice

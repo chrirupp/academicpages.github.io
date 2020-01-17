@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hands-Free Segmentation of Medical Volumes via Binary Inputs"
 collection: publications
 permalink: /publication/2016-dubost2016hands

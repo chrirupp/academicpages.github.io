@@ -1,4 +1,4 @@
----
+﻿---
 title: "3D Semantic Parameterization for Human Shape Modeling: Application to 3D Animation"
 collection: publications
 permalink: /publication/2013-rupprecht20133d

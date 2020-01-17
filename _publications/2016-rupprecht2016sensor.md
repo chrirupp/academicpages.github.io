@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sensor Substitution for Video-based Action Recognition"
 collection: publications
 permalink: /publication/2016-rupprecht2016sensor

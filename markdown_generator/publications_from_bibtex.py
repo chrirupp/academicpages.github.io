@@ -1,6 +1,7 @@
 import pybtex.database
 from pybtex.database import BibliographyData
 import os
+import codecs
 
 bib_data = pybtex.database.parse_file('publications.bib')
 
@@ -73,7 +74,7 @@ for key, bib_item in bib_data.entries.items():
     md += "\n---"
 
     md_filename = os.path.basename(md_filename)
-    with open("../_publications/" + md_filename, 'w') as f:
+    with codecs.open("../_publications/" + md_filename, 'w', "utf-8-sig") as f:
         f.write(md)
 
 

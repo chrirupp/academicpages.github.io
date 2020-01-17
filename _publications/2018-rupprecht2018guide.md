@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Guide Me: Interacting with Deep Networks"
 collection: publications
 permalink: /publication/2018-rupprecht2018guide

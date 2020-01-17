@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Learning in an Uncertain World: Representing Ambiguity Through Multiple Hypotheses"
 collection: publications
 permalink: /publication/2017-rupprecht2017learning

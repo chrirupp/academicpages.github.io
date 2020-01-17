@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Robust Optimization for Deep Regression"
 collection: publications
 permalink: /publication/2015-belagiannis2015robust

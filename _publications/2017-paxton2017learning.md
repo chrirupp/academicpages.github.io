@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Learning to Imagine Manipulation Goals for Robot Task Planning"
 collection: publications
 permalink: /publication/2017-paxton2017learning

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2016-grun2016taxonomy

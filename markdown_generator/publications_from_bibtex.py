@@ -74,7 +74,7 @@ for key, bib_item in bib_data.entries.items():
     md += "\n---"
 
     md_filename = os.path.basename(md_filename)
-    with codecs.open("../_publications/" + md_filename, 'w', "utf-8-sig") as f:
+    with codecs.open("../_publications/" + md_filename, 'w', "utf-8") as f:
         f.write(md)
 
 

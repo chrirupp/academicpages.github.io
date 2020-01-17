@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Towards Unsupervised Image Captioning with Shared Multimodal Embeddings"
 collection: publications
 permalink: /publication/2019-laina2019towards

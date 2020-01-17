@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Automatic segmentation of kidneys using deep learning for total kidney volume quantification in autosomal dominant polycystic kidney disease"
 collection: publications
 permalink: /publication/2017-sharma2017automatic

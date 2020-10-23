@@ -12,7 +12,7 @@ I am Christian Rupprecht, postdoctoal researcher at [VGG](http://www.robots.ox.a
 
 News
 ======
-* One paper accepted at [NeurIPS 2020](https://neurips.cc/Conferences/2020)
+* One paper on [video clustering](https://arxiv.org/abs/2006.13662) accepted at [NeurIPS 2020](https://neurips.cc/Conferences/2020)
 * Our work on [unsupervised 3D reconstruction](http://www.robots.ox.ac.uk/~vgg/blog/unsupervised-learning-of-probably-symmetric-deformable-3d-objects-from-images-in-the-wild.html) has received the Best Paper Award at CVPR 2020
 * Two papers accepted at [CVPR 2020](http://cvpr2020.thecvf.com//): on [unsupervised 3D from single image](https://arxiv.org/abs/1911.11130) (oral, [blog post](http://www.robots.ox.ac.uk/~vgg/blog/unsupervised-learning-of-probably-symmetric-deformable-3d-objects-from-images-in-the-wild.html), [code](https://github.com/elliottwu/unsup3d)) and semantic scene manipulation ([code](https://github.com/he-dhamo/simsg), [project page](https://he-dhamo.github.io/SIMSG/))
 * Three papers accepted at [ICLR 2020](https://iclr.cc/Conferences/2020): on [self-labelling](https://openreview.net/forum?id=Skl993R_PB) (spotlight, [blog post](http://www.robots.ox.ac.uk/~vgg/blog/self-labelling-via-simultaneous-clustering-and-representation-learning.html), [code](https://github.com/yukimasano/self-label)), [learning from one image](https://openreview.net/forum?id=ryxR4F4Lwr) and [RL visualization](https://openreview.net/forum?id=HJxVCkTwDH)
